@@ -1,0 +1,11 @@
+[INFO ] 2024-03-12 23:17:20.382 [main] PetStoreDao - Pet's ID: 2
+[INFO ] 2024-03-12 23:17:21.594 [main] PetStoreDao - Pet created: Pet{photoUrls = '[string]',name = 'Noya',id = '2',category = 'Category{name = 'Pincher',id = '2'}',tags = '[TagsItem{name = 'string',id = '2'}]',status = 'available'}
+[INFO ] 2024-03-12 23:19:11.030 [main] PetStoreDao - Pet's ID: 2
+[INFO ] 2024-03-12 23:19:12.047 [main] PetStoreDao - Pet created: Pet{photoUrls = '[string]',name = 'Noya',id = '2',category = 'Category{name = 'Pincher',id = '2'}',tags = '[TagsItem{name = 'string',id = '2'}]',status = 'available'}
+[INFO ] 2024-03-12 23:19:12.048 [main] PetStoreDao - Pet's ID: 2
+[INFO ] 2024-03-12 23:19:12.337 [main] PetStoreDao - Pet created: Pet{photoUrls = '[string]',name = 'Noya',id = '2',category = 'Category{name = 'Pincher',id = '2'}',tags = '[TagsItem{name = 'string',id = '2'}]',status = 'available'}
+[DEBUG] 2024-03-12 23:19:12.337 [main] PetStoreDaoTest - Pet 2: Pet{photoUrls = '[string]',name = 'Noya',id = '2',category = 'Category{name = 'Pincher',id = '2'}',tags = '[TagsItem{name = 'string',id = '2'}]',status = 'available'}
+[INFO ] 2024-03-12 23:23:57.903 [main] PetStoreDao - Pet's ID: 2
+[INFO ] 2024-03-12 23:23:58.985 [main] PetStoreDao - Pet created: Pet{photoUrls = '[string]',name = 'Noya',id = '2',category = 'Category{name = 'Pincher',id = '2'}',tags = '[TagsItem{name = 'string',id = '2'}]',status = 'available'}
+[INFO ] 2024-03-12 23:25:34.727 [main] PetStoreDao - Pet's ID: 2
+[INFO ] 2024-03-12 23:25:35.772 [main] PetStoreDao - Pet created: Pet{photoUrls = '[string]',name = 'Noya',id = '2',category = 'Category{name = 'Pincher',id = '2'}',tags = '[TagsItem{name = 'string',id = '2'}]',status = 'available'}
